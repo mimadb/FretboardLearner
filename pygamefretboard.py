@@ -1,5 +1,3 @@
-#Copyright 2020, Mohamed Imad Bakhira, All rights reserved.
-#v1.0.0
 import pygame
 from math import floor
 import random
